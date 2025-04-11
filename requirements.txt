@@ -1,0 +1,5 @@
+pandas #manipular analisar e tratar dados.
+numpy # usado para cálculos matemáticos e operações com arrays ou matrizs multidimensionais
+matplotlib #cria graficos  e visualizações
+seaborn #poderosa para criar gráficos estatísticos
+jupyter
